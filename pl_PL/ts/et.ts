@@ -12,7 +12,7 @@
     <name>ExitEditOpenFile</name>
     <message>
         <source>If you open a new file,the contents in the cell of this file will be eliminated:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Po otwarciu nowego pliku, zawartość w komórce tego pliku zostaną utracone:"></translation>
     </message>
     <message>
         <source>Text Label</source>
@@ -20,7 +20,7 @@
     </message>
     <message>
         <source>Do you still want to open it?</source>
-        <translation type="unfinished"></translation>
+        <translation type="Czy nadal chcesz to otworzyć?"></translation>
     </message>
     <message>
         <source>&amp;Open</source>
@@ -8310,15 +8310,15 @@ Document</source>
     </message>
     <message>
         <source>Show</source>
-        <translation type="unfinished"></translation>
+        <translation type="Pokaż"></translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished"></translation>
+        <translation type="OK"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="Anuluj"></translation>
     </message>
 </context>
 <context>
@@ -8356,11 +8356,11 @@ Document</source>
     </message>
     <message>
         <source>Old name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Stara nazwa"></translation>
     </message>
     <message>
         <source>New name:</source>
-        <translation type="unfinished"></translation>
+        <translation type="Nowa nazwa"></translation>
     </message>
 </context>
 <context>
@@ -8398,11 +8398,11 @@ Document</source>
     </message>
     <message>
         <source>&amp;Sort</source>
-        <translation type="unfinished"></translation>
+        <translation type="&amp;Soruja"></translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="Anuluj"></translation>
     </message>
 </context>
 <context>
@@ -8418,11 +8418,11 @@ Do you want to change to Manual Recalculation?</source>
     </message>
     <message>
         <source>Manual Recalculation</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przeliczenie Ręczne"></translation>
     </message>
     <message>
         <source>Automatic Recalculation (Recommend)</source>
-        <translation type="unfinished"></translation>
+        <translation type="Przeliczni Automatyczne"></translation>
     </message>
 </context>
 </TS>
